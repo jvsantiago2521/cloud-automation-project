@@ -1,0 +1,7 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-logging
+psutil
+google-cloud-pubsub
+pytz
